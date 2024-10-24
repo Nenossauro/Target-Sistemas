@@ -1,0 +1,3 @@
+Solução:
+
+Dá para saber qual interruptor controla qual ligando um e o deixando ligado por uns minutos, desligando ele e ligando outro e indo conferir. Se tiver uma lampada que tiver quente, mas apagada, é a lampada daquele primeiro que a gente ligou esperou e desligou, se tiver uma fria e apagada e a do que a gente não mexeu, e o que sobrou é do que a gente ligou e não desligou mais 
