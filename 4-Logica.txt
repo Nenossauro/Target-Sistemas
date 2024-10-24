@@ -4,16 +4,18 @@ Lógica: os numeros impares
 
 
 b) 2, 4, 8, 16, 32, 64, 128
-Lógica: Começando no 2, o proximo valor é o anterior vezes 2 
+Lógica: Começando no 2, o proximo valor é o anterior multiplicado por 2 
 
 
 c) 0, 1, 4, 9, 16, 25, 36, 49
 Lógica: Quadrados perfeitos
 
 
-d) 4, 16, 36, 64, ____ 
+d) 4, 16, 36, 64, 100
+Lógica: Quadrados dos inteiros multiplicados por 4
 
 e) 1, 1, 2, 3, 5, 8, 13
 Lógica: Sequencia Fibonaci
 
-f) 2,10, 12, 16, 17, 18, 19, ____
+f) 2,10, 12, 16, 17, 18, 19, 200?
+Lóciga: Numeros que começam com 200?
